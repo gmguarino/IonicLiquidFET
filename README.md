@@ -1,6 +1,6 @@
 # IonicLiquidFET
 
-Calculations for 2D electron gas accumulation on the surface of ionic-liquid-gated electric double layer transistors.
+Calculations for 2D electron gas accumulation on the surface of ionic-liquid-gated STO electric double layer transistors.
 
 ![alt text](https://github.com/gmguarino/IonicLiquidFET/blob/master/images/predicted%202deg.jpg)
 
